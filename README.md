@@ -3,7 +3,7 @@
   
 
 ## Bokeh Basics
-The `.ipynb` file does not display the plots. The html version can be found [here](https://tauseef1234.github.io/Bokeh_Basics.html)
+The `.ipynb` file does not display the plots. The html version can be found [here](https://tauseef1234.github.io/Bokeh_Basics.html) which show all the bokeh plots
 
 References:
 1. https://docs.bokeh.org/en/latest/
