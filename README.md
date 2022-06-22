@@ -17,10 +17,17 @@ Note: The `.ipynb` file in github does not display the plots (refer to this [lin
 
 Bokeh server makes it easy to create interactive web applications that connect front-end UI events to running Python code. Bokeh creates high-level Python models, such as plots, ranges, axes, and glyphs, and then converts these objects to JSON to pass them to its client library, BokehJS.
     
-The `bokeh_app.py` is a sample code which uses.
+The `bokeh_app.py` is a sample code which uses:
 *  the plots generated in the *Bokeh Basics* notebook 
 *  then uses the concepts of stacking of plots from the *Bokeh Part2* notebook
 *  and shows how to host these plots on a local bokeh server
+    
+In order to launch the app:
+- Open anaconda prompt
+- Activate the python env that has all the relevant necessary packages neeeded for the code/plot
+- Navigate to the folder directorty that has the plot code (in this case `bokeh_app.py`) by using the `cd` unix command
+- Run this command `bokeh serve --show bokeh_app.py`
+- A window should open up on your default browser with the plot
  
 References:
 1. https://docs.bokeh.org/en/latest/
