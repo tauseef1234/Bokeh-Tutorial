@@ -28,6 +28,8 @@ In order to launch the app:
 - Navigate to the folder directorty that has the plot code (in this case `bokeh_app.py`) by using the `cd` unix command
 - Run this command `bokeh serve --show bokeh_app.py`
 - A window should open up on your default browser with the plot
+    
+ img['plot.JPG']
  
 References:
 1. https://docs.bokeh.org/en/latest/
