@@ -18,6 +18,7 @@ Note: The `.ipynb` file in github does not display the plots (refer to this [lin
 Bokeh server makes it easy to create interactive web applications that connect front-end UI events to running Python code. Bokeh creates high-level Python models, such as plots, ranges, axes, and glyphs, and then converts these objects to JSON to pass them to its client library, BokehJS.
     
 The `bokeh_app.py` is a sample code which uses:
+    
     -  the plots generated in the *Bokeh Basics* notebook 
     -  then uses the concepts of stacking of plots from the *Bokeh Part2* notebook
     -  and shows how to host these plots on a local bokeh server
