@@ -29,7 +29,7 @@ In order to launch the app:
 - Run this command `bokeh serve --show bokeh_app.py`
 - A window should open up on your default browser with the plot
     
- [img]('plot.JPG')
+ <img src='plot.img'>
  
 References:
 1. https://docs.bokeh.org/en/latest/
