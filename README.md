@@ -26,7 +26,7 @@ In order to launch the app:
 - Open anaconda prompt
 - Activate the python env that has all the relevant necessary packages neeeded for the code/plot
 - Navigate to the folder directorty that has the plot code (in this case `bokeh_app.py`) by using the `cd` unix command
-- Run this command `bokeh serve --show bokeh_app.py`
+- Execute this command `bokeh serve --show bokeh_app.py` to start your bokeh application
 - A window should open up on your default browser with the plot
     
  <img src='plot.JPG'>
