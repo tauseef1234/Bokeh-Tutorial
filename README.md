@@ -1,7 +1,7 @@
 # Bokeh-Tutorial
 <center><img src = 'https://static.bokeh.org/branding/logos/bokeh-logo.svg' width = 200>
  
-Bokeh is a library for creating interactive data visualizations in a web browser. It offers a concise, human-readable syntax, which allows for rapidly presenting data in an aesthetically pleasing manner
+Bokeh is a library for creating interactive data visualizations in a web browser. It offers a concise, human-readable syntax, which allows for rapidly presenting data in an aesthetically pleasing manner.
 
 ## Bokeh Basics
 This notebook is a basic tutorial on how to build your first bokeh plot. 
